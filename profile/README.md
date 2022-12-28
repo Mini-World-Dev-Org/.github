@@ -24,4 +24,4 @@ See Mini World Wiki.
 ## Links
 - [Mini World Wiki](https://github.com/Mini-World-Dev-Org/Mini-World-Wiki/)  
 - [MiniExtend](https://github.com/0-0000/MiniExtend/)  
-- [Mini World Genv](https://github.com/0-0000/MiniWorldGenv/)  
+- [Mini World Genv](https://github.com/Mini-World-Dev-Org/MiniWorldGenv/)  
