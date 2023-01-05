@@ -14,7 +14,7 @@
 
 <span id="english"></span>
 ## Hi, there 👋
-🙋 A short introduction - Mini World Development Organiztion is an organiztion that develops Mini World.  
+🙋 A short introduction - Mini World Development Organization is an organization that develops Mini World.  
 ✚ Current main work - Create wiki which is mainly about the script and mechanism for Mini World.  
 Why?For example, if a developer doesn't test, he will not understand that angle in UI is clockwise but not anticlockwise.  
 See Mini World Wiki.  
