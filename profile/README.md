@@ -10,6 +10,7 @@
 参见 Mini World Wiki 。  
 🌈 贡献指南 - 只需做当前的主要工作。  
 🧙 记住，通过 *Markdown* 的力量，你可以做很多事情。  
+☏ 加入 QQ 群: [迷你世界开发组织 QQ 群](https://jq.qq.com/?_wv=1027&k=YC1Ae3V2)  
 ☎ 加入 Discord: <a href="https://discord.gg/8pU9kJjtq6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="play craft" height="40" width="50" /></a>  
 
 <span id="english"></span>
@@ -20,6 +21,7 @@ Why?For example, if a developer doesn't test, he will not understand that angle 
 See Mini World Wiki.  
 🌈 Contribution guidelines - Just do current main work.  
 🧙 Remember, you can do mighty things with the power of *Markdown*.  
+☏ Join QQ: [Mini World Development Organization QQ group chat](https://jq.qq.com/?_wv=1027&k=YC1Ae3V2)  
 ☎ Join Discord: <a href="https://discord.gg/8pU9kJjtq6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="play craft" height="40" width="50" /></a>  
 
 <span id="links"></span>
