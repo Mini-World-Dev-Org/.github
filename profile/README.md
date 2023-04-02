@@ -28,6 +28,7 @@ If you want to join the organization. You can join these group chats, then send 
 
 <span id="links"></span>
 ## Links
-- [Mini World Wiki](https://github.com/Mini-World-Dev-Org/Mini-World-Wiki/)  
-- [MiniWorldGenv](https://github.com/Mini-World-Dev-Org/MiniWorldGenv/)  
-- [MiniExtend](https://github.com/0-0000/MiniExtend/)  
+- [MiniStudio WIKI](https://github.com/Mini-World-Dev-Org/MiniStudio-WIKI)
+- [Mini World Wiki](https://github.com/Mini-World-Dev-Org/Mini-World-Wiki/)
+- [MiniWorldGenv](https://github.com/Mini-World-Dev-Org/MiniWorldGenv/)
+- [MiniExtend](https://github.com/0-0000/MiniExtend/)
